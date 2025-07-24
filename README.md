@@ -6,6 +6,8 @@ as a challenge to better my skills in C# and the Unity Game Engine.
 The game so far just has camera movement working and player movement. You can move with the 'W,A,S,D' keys, feel free to try and break it by throwing in combinations of movements (it should not break).
 You can open and close the Inventory with 'E'.
 
+To 'RUN' the game and play, please download the entirety of the folder and double click on the file named 'Jeriko Mobile (RUN ME)'
+
 [Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/GgjhVEOwsbQ))
 
 # Development Environment
