@@ -23,8 +23,8 @@ SYNT ASSETS
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](Unity.Com)
-* [Web Site Name](ChatGpt.Com)
+* [Unity](Unity.Com)
+* [ChatGpt](ChatGpt.Com)
 
 # Future Work
 
