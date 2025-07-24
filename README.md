@@ -8,7 +8,7 @@ You can open and close the Inventory with 'E'.
 
 To 'RUN' the game and play, please download the entirety of the folder and double click on the file named 'Jeriko Mobile (RUN ME)'
 
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/GgjhVEOwsbQ))
+[Software Demo Video] [https://youtu.be/GgjhVEOwsbQ]
 
 # Development Environment
 
